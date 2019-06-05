@@ -1,0 +1,45 @@
+a {
+  text-decoration:none;
+  color:blue;
+  font-weight:none;
+  font-family:'Roboto Slab', serif;;
+}
+body {
+  text-decoration: none;
+  font-family: 'Roboto Slab', serif;
+  color: black;
+  font-weight: none;
+ }
+.huffpost  {
+  text-decoration:underline;
+  font-family: 'Roboto Slab', serif;
+  color: blue;
+  font-weight: bold;
+ }
+ .container{
+   margin: 0 auto;
+  width: 100%;
+  max-width: 748px;
+   padding-left:15px;
+   padding-right: 15px;
+ }
+body{
+  margin: 0%
+}
+p{
+    text-align: justify;
+    color: black;
+}
+
+
+@media (min-width: 700px) {
+  body{
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+    color: brown;
+    font-weight: none;
+   }
+   h1 {
+     font-size: 22px
+   }
+}
