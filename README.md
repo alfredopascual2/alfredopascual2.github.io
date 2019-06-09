@@ -1,9 +1,3 @@
-# Prueba *GIT HUB PAGES* ##Forma parte del trabajo de la asignatura _Periodista como programador_
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="utf-8">
-  <title>Alfredo Pascual Puértolas</title>
   <link rel="stylesheet" href="styles/styles2.css">
 
 </head>
